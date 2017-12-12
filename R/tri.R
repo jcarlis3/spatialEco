@@ -15,7 +15,7 @@
 #' @note 81-116 (2) nearly level surface.
 #' @note 117-161 (3) slightly rugged surface.
 #' @note 162-239 (4) intermediately rugged surface.
-#' @note 240-497 (5) oderately rugged surface.
+#' @note 240-497 (5) moderately rugged surface.
 #' @note 498-958 (6) highly rugged surface.
 #' @note >959 (7) extremely rugged surface. 
 #' 

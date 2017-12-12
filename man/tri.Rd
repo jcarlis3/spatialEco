@@ -36,7 +36,7 @@ Recommended ranges for classifying Topographic Ruggedness Index
 
 162-239 (4) intermediately rugged surface.
 
-240-497 (5) oderately rugged surface.
+240-497 (5) moderately rugged surface.
 
 498-958 (6) highly rugged surface.
 
